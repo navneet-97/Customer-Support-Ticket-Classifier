@@ -1,0 +1,9 @@
+Ticket Text,Predictions,Confidence Scores,Extracted Entities (JSON),timestamp
+I ordered SoundWave 300 on 15 March but received the wrong item. Order #12345.,"Issue Type: Late Delivery
+Urgency Level: Low","Confidence Scores:
+Issue Type: 0.300
+Urgency Level: 0.363","{""products"": [""SoundWave 300""], ""dates"": [], ""complaint_keywords"": [""wrong""], ""order_numbers"": [""Order #12345""]}",2025-06-24 22:42:45.128372
+I ordered SoundWave 300 on 15 March but received the wrong item. Order #12345.,"Issue Type: Late Delivery
+Urgency Level: Low","Confidence Scores:
+Issue Type: 0.300
+Urgency Level: 0.363","{""products"": [""SoundWave 300""], ""dates"": [], ""complaint_keywords"": [""wrong""], ""order_numbers"": [""Order #12345""]}",2025-06-24 22:42:47.888507
