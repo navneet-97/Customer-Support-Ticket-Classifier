@@ -5,6 +5,10 @@ A Machine Learning pipeline that classifies customer support tickets by **Issue 
 
 ---
 
+🎥 **Demo Video**: [Watch here](https://www.loom.com/share/6f853478bc624af88b8ff668242386a4?sid=db61d37c-6a9e-409a-a5cb-c7fe365761a5)
+
+---
+
 ## 📌 Features
 
 - 🧹 Text preprocessing using NLTK and TextBlob
